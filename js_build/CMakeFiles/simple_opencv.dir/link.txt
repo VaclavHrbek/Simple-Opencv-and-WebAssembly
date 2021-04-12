@@ -1,0 +1,1 @@
+/home/vasek/tools/emsdk/upstream/emscripten/em++ --bind -s ALLOW_MEMORY_GROWTH @CMakeFiles/simple_opencv.dir/objects1.rsp -o simple_opencv.js @CMakeFiles/simple_opencv.dir/linklibs.rsp

@@ -1,0 +1,3 @@
+/home/vasek/project_test/emc/simple_opencv_work/js_build/CMakeFiles/rebuild_cache.dir
+/home/vasek/project_test/emc/simple_opencv_work/js_build/CMakeFiles/edit_cache.dir
+/home/vasek/project_test/emc/simple_opencv_work/js_build/CMakeFiles/simple_opencv.dir
